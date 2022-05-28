@@ -1,0 +1,11 @@
+#include
+#define
+#if
+#else
+#ifdef
+#ifndef
+#error
+#pragma
+
+
+#pragma : is a preprocessive directive which is used to hide the warnings during the compilation
